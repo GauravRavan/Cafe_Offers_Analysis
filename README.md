@@ -41,6 +41,4 @@ The analysis leverages three data tables:
 - [Cafe Offer Analysis PDF](https://github.com/user-attachments/files/17607322/Cafe_Offer_Analysis.pdf)
 - ![Cafe Offers Analysis Image](https://github.com/user-attachments/assets/18822a61-ae43-4e6f-ba65-22bb3f6b683d)
 
-## Future Enhancements
-- Refine offer targeting strategies by identifying high-value customer segments.
-- Experiment with additional segmentation based on customer purchase behavior and offer preferences.
+Feel free to give suggestions to improve this analysis!
